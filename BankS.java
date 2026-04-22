@@ -24,7 +24,7 @@ class BankAccount {
         return balance;
     }
 }
-public class BankService {
+public class BankS {
     public static void main(String[] args) {
         BankAccount acc = new BankAccount(1000);
         acc.deposit(500);
